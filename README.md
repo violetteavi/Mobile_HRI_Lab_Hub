@@ -1,6 +1,8 @@
 # Andrew Violette's-Lab-Hub
 for [Mobile_HRI_Design](https://github.com/FAR-Lab/Mobile_HRI_Design)
 
+For a summary of the final project, interaction videos, and lessons learned, see [Final_Report](Final_Report.pdf)
+
 Please place links here to the README.md's for each of your labs here:
 
 [Lab 0. Mobile Robot Bootcamp](Lab0/Readme.md)
@@ -22,7 +24,4 @@ Please place links here to the README.md's for each of your labs here:
 [Lab 7 + 8. Finding People to Interact with + Chatty Robot](Lab7/Readme.md)
 
 [Optional Material.](Optional_Material/Readme.md)
-
-
-Final Project
 
